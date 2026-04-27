@@ -3,6 +3,8 @@
 ### 🚀 Aspirante a Desenvolvedor Full Stack 
 Atualmente focado em **Front-end** moderno, mas com uma base sólida em lógica de programação e linguagens de baixo nível.
 
+- ☑️ primeira pagina em html com css
+- 📑 em processo: adicionar java script
 - 🎓 Estudando **React.js, TypeScript e Node.js**.
 - ⚙️ Experiência com **C, C++ e Python** em projetos de lógica e automação.
 - 🛠️ Criando experiências de aprendizado gamificadas.
